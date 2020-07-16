@@ -4,7 +4,7 @@
 Each tutorial has it's own folder. Within the folder for a lecture, we assume the following directry structure:
 
 ```
-lecture_*X*_*date*
+*lecture_X*_*date*
 │   *code_file.ipynb*    
 │
 └───data
